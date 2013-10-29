@@ -3,14 +3,14 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.groupweird.dias"
         version   = "1.0.0">
-    <name>5Dias</name>
+    <name>Queseparla</name>
 
     <description>
         Aplicacion para levantar pedidos
     </description>
 
-    <author href="http://groupweird.com" email="santiagovaldez@groupweird.com">
-        GroupWeird
+    <author href="http://www.tedic.org" email="santiagovaldez@groupweird.com">
+        Tedic
     </author>
 
     <feature name="http://api.phonegap.com/1.0/device" />
